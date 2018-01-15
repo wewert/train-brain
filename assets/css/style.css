@@ -1,0 +1,28 @@
+body {
+  font-family: 'Bungee Outline', cursive;
+  background: linear-gradient(black, white);
+}
+
+.jumbotron {
+  background: #ff533D;
+}
+
+.panel-default .panel-heading {
+  background-color: #AB987A;
+}
+
+.panel-body {
+  background-color: ivory;
+}
+
+td {
+  background-color: #e3e3e3;
+}
+
+.form-control {
+background-color: #e3e3e3;
+}
+
+.btn-info {
+  background-color: #ff533D;
+}
